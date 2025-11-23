@@ -19,6 +19,9 @@ Use yellow flowers for super jumps
 Explore colorful, friendly environments
 The higher you climb, the more intense (and fun) it gets!
 
+## Trailer
+[🎬 Watch Trailer](./sims/TomTheDragon.mp4)
+
 Team
 This project was made by students at Futuregames.
 
