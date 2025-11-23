@@ -1,5 +1,5 @@
 **Tom The Dragon**
-Tom The Dragon is a fun, cozy 3D platformer created as part of a Futuregames project, built by a team of 21 students collaborating across India, Turkey, Sweden, and Warsaw. It was my first time working on a game with a team this large, and it taught me a lot about communication, managing time, and writing code that fits into someone else’s vision—not just my own.
+Tom The Dragon is a fun, cozy 3D platformer created as part of a Futuregames project, built by a team of 21 students collaborating across India, Turkey, Sweden, and Warsaw. It was my first time working on a game with a team this large, and it taught me a lot about communication, managing time, and writing code that fits into someone else’s vision not just my own.
 
 The game was built in Unity using C#. I mainly worked on:
 
